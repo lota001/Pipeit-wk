@@ -122,8 +122,6 @@ After the build completes successfully, the deployment stage publishes the gener
 
 This makes the latest successfully built version accessible through a public URL.
 
-**Live Website:** [https://lota001.github.io/pipeit-weekend](https://lota001.github.io/Pipeit-wk/)/
-
 The deployment process is automated, eliminating the need to manually upload website files after each change.
 
 ## Repository Structure
@@ -140,8 +138,4 @@ The repository contains the following key files:
 | `README.md` | Project documentation and implementation overview. |
 | `site/index.html` | HTML website generated during the build process. |
 
-## My Custom GitHub Action
 
-One of the key achievements of this project was creating my own **composite GitHub Action**, named `build-card`.
-
-Instead of placing all the build commands directly inside the workflow YAML file, I created a reusable action that
