@@ -1,4 +1,4 @@
-name: Lotanna
+name: pipeline
 
 on:
   push:
