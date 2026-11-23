@@ -122,7 +122,7 @@ After the build completes successfully, the deployment stage publishes the gener
 
 This makes the latest successfully built version accessible through a public URL.
 
-**Live Website:** https://lota001.github.io/pipeit-weekend/
+**Live Website:** [https://lota001.github.io/pipeit-weekend](https://lota001.github.io/Pipeit-wk/)/
 
 The deployment process is automated, eliminating the need to manually upload website files after each change.
 
