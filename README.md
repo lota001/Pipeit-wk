@@ -4,7 +4,7 @@
 ![Bash](https://img.shields.io/badge/Bash-Automated_Testing-4EAA25?logo=gnubash&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Deployed-222222?logo=githubpages&logoColor=white)
 
-**Live Website:** [View My Deployed Website](https://lota001.github.io/pipeit-weekend/)
+**Live Website:** [View My Deployed Website](https://lota001.github.io/Pipeit-wk/)
 
 ## Project Overview
 
